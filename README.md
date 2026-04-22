@@ -22,7 +22,7 @@ no keyboard shortcut needed, no Dock icon, just your mouse.
 ## Installation
 
 
-[Download NotchTerm-0.1.1-beta.zip](https://github.com/ysftrn/notchterm-releases/releases/download/v0.1.1-beta/NotchTerm-0.1.1-beta.zip)
+[Download NotchTerm-0.1.2-beta.zip](https://github.com/ysftrn/notchterm-releases/releases/download/v0.1.2-beta/NotchTerm-0.1.2-beta.zip)
 
 1. Unzip and drag NotchTerm.app to /Applications
 2. Right-click → Open (not double-click) on first launch
@@ -30,7 +30,7 @@ no keyboard shortcut needed, no Dock icon, just your mouse.
 
 ### Direct Download (from Releases)
 Download the latest `.dmg` from the 
-[releases page](`https://github.com/ysftrn/notchterm/releases`).
+[releases page](https://github.com/ysftrn/notchterm-releases/releases).
 
 
 ## Getting Started
@@ -47,8 +47,8 @@ NotchTerm is configured via a plain text file:
 `~/.config/notchterm/notchterm.conf`
 
 The file is created automatically on first launch with all 
-options documented. Edit it and click **Reload Config** in the 
-menu bar to apply changes.
+options documented. Edit and save — changes are applied 
+automatically.
 
 ### Available settings
 | Setting | Default | Description |
