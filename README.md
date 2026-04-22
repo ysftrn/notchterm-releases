@@ -47,8 +47,8 @@ NotchTerm is configured via a plain text file:
 `~/.config/notchterm/notchterm.conf`
 
 The file is created automatically on first launch with all 
-options documented. Edit and save — changes are applied 
-automatically.
+options documented. Edit it and click **Reload Config** in the 
+menu bar to apply changes.
 
 ### Available settings
 | Setting | Default | Description |
