@@ -1,5 +1,5 @@
 # NotchTerm
-
+![notchTerm.png](notchTerm.png)
 A macOS terminal that lives in your notch. Hover over the notch 
 area on your MacBook Pro to reveal a quick-access terminal — 
 no keyboard shortcut needed, no Dock icon, just your mouse.
