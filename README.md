@@ -22,7 +22,7 @@ no keyboard shortcut needed, no Dock icon, just your mouse.
 ## Installation
 
 
-[Download NotchTerm-0.1.5-beta.zip](https://github.com/ysftrn/notchterm-releases/releases/download/v0.1.5-beta/NotchTerm-0.1.5-beta.zip)
+[Download NotchTerm-0.1.6-beta.zip](https://github.com/ysftrn/notchterm-releases/releases/download/v0.1.6-beta/NotchTerm-0.1.6-beta.zip)
 
 1. Unzip and drag NotchTerm.app to /Applications
 2. Right-click → Open (not double-click) on first launch
